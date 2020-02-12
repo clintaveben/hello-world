@@ -1,4 +1,4 @@
 # hello-world
 Python Programming
 
-Overview of Git, before getting into Harcore Python Progamming
+Overview of Git, before getting into Hardore Python Progamming
